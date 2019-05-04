@@ -2,7 +2,7 @@
 
 
 ## git日常操作
-- 克隆仓库：git clone git@github.com:jasonandjay/project.git
+- 克隆仓库：git clone git@github.com:thisislys/gitOperation.git
 - 拉取代码：git pull origin master
 - 新建分支：git branch chenmanjie
 - 删除分支：git branch -d chenmanjie
